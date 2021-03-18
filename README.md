@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on **an Intuitive Database System to Rank Stocks and Companies**
+<p align="left"> <a href="https://twitter.com/henrikcodes" target="blank"><img src="https://img.shields.io/twitter/follow/henrikcodes?logo=twitter&style=for-the-badge" alt="henrikcodes" /></a> </p>
+
+- 🔭 I’m currently working on **a database system to rank the best stocks and companies**
 
 - 🌱 I’m currently learning **GoLang**
 
