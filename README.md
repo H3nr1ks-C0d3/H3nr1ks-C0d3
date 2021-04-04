@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on **any sort of projects that are intuitive and opened for new Teammembers ;)**
+- 👯 I’m looking to collaborate on **any sort of projects that are intuitive and opened for new teammembers ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
